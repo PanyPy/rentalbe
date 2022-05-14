@@ -17,6 +17,7 @@ Note:
 - Some code duplication may be found.
 - Not all the types would be declared.
 - Filters are just being applied in the front-end.
+- I shouldn't had to deploy directly to master.
 - And other... :)
 
 
