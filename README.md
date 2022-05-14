@@ -2,7 +2,7 @@
 If you don't have the appetite to download the code and just want to check the site just check it now. 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed378cb2-9840-4d49-aedb-5a704eb423a1/deploy-status)](https://rental-thexplace.netlify.app/)
 
-I you want to run it locally, you must setup [BE](https://github.com/PanyPy/projectbe) first.
+I you want to run it locally, you must setup [BE](https://github.com/PanyPy/rentalbe) first.
 
 Some features
 
