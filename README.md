@@ -18,6 +18,7 @@ Note:
 - Not all the types would be declared.
 - Filters are just being applied in the front-end.
 - I shouldn't had to deploy directly to master.
+- Env config shouldn't be uploaded. 
 - And other... :)
 
 
