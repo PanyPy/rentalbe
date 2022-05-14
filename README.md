@@ -19,6 +19,7 @@ Note:
 - Filters are just being applied in the front-end.
 - I shouldn't had to deploy directly to master.
 - Env config shouldn't be uploaded. 
+- I created as rentalbe instead of rental_be.
 - And other... :)
 
 
